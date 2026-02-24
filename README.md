@@ -4,20 +4,6 @@ Aplicación **PHP + MySQL** corriendo en contenedores Docker.
 
 ---
 
-## Estructura
-
-hola-mundo/
-├── docker-compose.yml 
-├── mysql/
-│ └── init.sql 
-└── src/
-├── index.php
-├── css/style.css
-└── js/app.js 
-
-
----
-
 ## Servicios
 
 | Servicio | Qué es                 | Puerto                     |
